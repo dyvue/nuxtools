@@ -1,8 +1,6 @@
 # Nuxtools
 
-### 👨🏻‍🔧 My reference links when using nuxtjs
-
-🏷 Nuxt modules
+#### 🕊 Nuxt modules
 
 <ul>
   <li>
@@ -34,5 +32,13 @@
   </li>
   <li>
     <a target="blank" href="https://dev.auth.nuxtjs.org/">Nuxt auth</a>
+  </li>
+</ul>
+
+#### 🌏 Random Article
+
+<ul>
+  <li>
+    <a target="blank" href="https://redonion.se/en/css-modules-in-nuxt-js/">CSS Modules (encrypt class name)</a>
   </li>
 </ul>
